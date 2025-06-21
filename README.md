@@ -52,13 +52,13 @@ streamlit run app.py
 
 ---
 
-##💻 Live Demo
+## 💻 Live Demo
 
 👉 https://video-captioning-app-al9pqv3obwxspwvh3uk5yu.streamlit.app/
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
