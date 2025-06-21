@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore big model weights
+*.pth
+*.pt
+*.ckpt
+
+# Ignore Streamlit stuff
+.streamlit/
+
+# Ignore anything temporary
+*.log
+*.DS_Store
