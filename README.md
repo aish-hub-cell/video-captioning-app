@@ -3,7 +3,7 @@
 This Streamlit app uses an AI model to **automatically generate captions** for videos!  
 Just upload a video file, and boom — it gives you a short description of what's happening inside.
 
-> ✨ Built with ❤️ using Python, Streamlit, and BLIP (Bootstrapped Language Image Pretraining)
+> Built using Python, Streamlit, and BLIP (Bootstrapped Language Image Pretraining)
 
 ---
 
